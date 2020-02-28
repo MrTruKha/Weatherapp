@@ -1,0 +1,1 @@
+C:\Users\SmartOSC\source\repos\WeatherApp\WeatherApp\WeatherApp.csproj;x86
